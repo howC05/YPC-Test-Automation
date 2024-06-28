@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To validate the system handles the case when no yoga routines are available.</description>
+   <name>No Yoga Routines</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c97bf79-4a6b-4f7f-b1c5-70dc5b09c59a</testCaseGuid>
+</TestCaseEntity>

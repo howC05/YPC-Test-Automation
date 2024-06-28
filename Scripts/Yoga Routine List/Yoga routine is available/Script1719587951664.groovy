@@ -19,34 +19,22 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://yoga-react-deploy.vercel.app/')
+WebUI.navigateToUrl('https://yoga-react-deploy.vercel.app/yoga')
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Yoga Posture Correction/button_Sign in'))
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://yoga-react-deploy.vercel.app/')
-
-WebUI.click(findTestObject('Object Repository/Register Yoga Posture Correction/button_Register'))
-
-WebUI.setText(findTestObject('Object Repository/Register Yoga Posture Correction/input_Sign up your account_registerEmail'), 
+WebUI.setText(findTestObject('Object Repository/Page_Yoga Posture Correction/input_Sign in your account_floatingInput'), 
     'cuteboy@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Register Yoga Posture Correction/input_Email address  (e.g.,nameexample.com)_525eaa'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Yoga Posture Correction/input_Email address_floatingPassword'), 
+    'npnYCJoQVm0=')
+
+WebUI.click(findTestObject('Object Repository/Page_Yoga Posture Correction/button_Sign In (1)'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Yoga Posture Correction/input_Email address_floatingPassword'), 
     'aeHFOx8jV/A=')
 
-WebUI.setText(findTestObject('Object Repository/Register Yoga Posture Correction/input_Password (at least 6 characters.)_FirstName'), 
-    'Hello')
+WebUI.click(findTestObject('Object Repository/Page_Yoga Posture Correction/button_Sign In (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Register Yoga Posture Correction/input_First Name_LastName'), 'Tester')
-
-WebUI.setText(findTestObject('Object Repository/Register Yoga Posture Correction/input_Last Name_age'), '18')
-
-WebUI.setText(findTestObject('Object Repository/Register Yoga Posture Correction/input_Age_weight'), '57')
-
-WebUI.click(findTestObject('Object Repository/Register Yoga Posture Correction/button_Sign Up'))
-
-WebUI.click(findTestObject('Object Repository/Register Yoga Posture Correction/button_Sign in your account_btn-close'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Yoga Posture Correction/button_ROUTINE'))
 
