@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_select postures_hovertransition hoverdu_4e210b (1)</name>
+   <tag></tag>
+   <elementGuidId>5a0e6e40-e718-469c-b6bc-6df20ef5774b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8a6a4375-2dfe-4fb3-b3dd-58e39c4a9b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/chair-removebg-preview.png</value>
+      <webElementGuid>ec82100e-22b3-4892-a3c1-7f5e15b36e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Chair Pose</value>
+      <webElementGuid>e5535275-6c7b-4de3-a9ab-e646676f9e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:transition hover:duration-100 hover:ease-in-out h-full w-full object-center p-2 bg-white lg:h-full lg:w-full cursor-pointer transition  border-white</value>
+      <webElementGuid>a0f68538-4e52-4d0f-9beb-6d3fcb74bf4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>4f894a74-e809-43ca-88fc-658c337357fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;scrollable-container grid grid-cols-1 min-h-screen&quot;]/div[@class=&quot;mx-auto max-w-2xl px-4 py-3 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-6&quot;]/div[@class=&quot;mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8&quot;]/div[@class=&quot;col-span-1&quot;]/div[@class=&quot;transition duration-100 ease-out hover:-translate-y-1 hover:scale-105 aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200   group-hover:border-4 group-hover:border-black lg:h-80&quot;]/img[@class=&quot;hover:transition hover:duration-100 hover:ease-in-out h-full w-full object-center p-2 bg-white lg:h-full lg:w-full cursor-pointer transition  border-white&quot;]</value>
+      <webElementGuid>563fd112-647a-40bd-9c4f-2340546ab197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/img</value>
+      <webElementGuid>223f13a8-49df-4760-bc84-83c72274cea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Chair Pose']</value>
+      <webElementGuid>37d1fed1-ace8-49ea-9a56-2c2aa666ba9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>bbd61c35-6d97-4a27-8192-2294ec31d017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/chair-removebg-preview.png' and @alt = 'Chair Pose']</value>
+      <webElementGuid>7a1f8b7a-91d3-4be2-824f-bdef6df9e8ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
