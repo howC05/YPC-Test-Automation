@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View Routine_grid place-content-center _849044 (1)</name>
+   <tag></tag>
+   <elementGuidId>851df546-0ce0-46ca-b3c4-94dbd4bfbd00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid.place-content-center.add-routine.bg-slate-100.bg-opacity-30.border-dashed.border-4.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bacf41f5-8a71-421e-9f50-83d134267abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid place-content-center add-routine bg-slate-100 bg-opacity-30 border-dashed border-4 cursor-pointer</value>
+      <webElementGuid>27450818-f69f-4a43-9649-b0d63eca2ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;yoga-container grid grid-cols-2 p-4 gap-2&quot;]/div[@class=&quot;flex flex-wrap col-span-1 justify-center&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;grid place-content-center add-routine bg-slate-100 bg-opacity-30 border-dashed border-4 cursor-pointer&quot;]</value>
+      <webElementGuid>13e348a0-cc3e-4be2-a5c6-fb11be453bdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]</value>
+      <webElementGuid>61303832-cf2a-403d-b2d4-ce6d57f6c122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Routine'])[3]/following::div[1]</value>
+      <webElementGuid>3c93d497-6580-458e-9b5a-a3c0d7286ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='routine 1'])[1]/following::div[1]</value>
+      <webElementGuid>852a4488-ffb3-4de5-8966-1ff27e4c8bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions'])[1]/preceding::div[1]</value>
+      <webElementGuid>ee655630-6ce1-45e7-93b2-5b3d44024913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[1]/preceding::div[8]</value>
+      <webElementGuid>e216ca24-fee7-488d-a7db-4f9f75967df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>ee02524a-a114-4899-874a-e833829114d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

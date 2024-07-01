@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ROUTINE (2)</name>
+   <tag></tag>
+   <elementGuidId>13b4b043-ed2e-4b2f-966d-e4951239e35b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/a[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5175546b-c11a-4c85-8fda-448ac855e7b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-16 border-4 border-gray-500 font-bold text-slate-950 hover:bg-gray-100 hover:text-gray-700 opacity-100 square2 </value>
+      <webElementGuid>c91ba091-701e-4618-8d21-ec2255adc9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ROUTINE</value>
+      <webElementGuid>30fa83f6-af64-47cd-b92e-e7b7d2309347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;big-container grid min-h-screen max-h-screen&quot;]/div[@class=&quot;p-4 grid gap-4 lg:grid-cols-3&quot;]/div[@class=&quot;grid place-items-center col-start-2&quot;]/div[@class=&quot;grid gap-4&quot;]/a[2]/button[@class=&quot;h-16 border-4 border-gray-500 font-bold text-slate-950 hover:bg-gray-100 hover:text-gray-700 opacity-100 square2&quot;]</value>
+      <webElementGuid>ecd321c4-e483-4b95-8284-7e35e85c5f93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/a[2]/button</value>
+      <webElementGuid>b0e12461-961e-40da-83f3-99950c296f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEARN'])[1]/following::button[1]</value>
+      <webElementGuid>e3132155-0955-44e2-ae4a-c0968b59055b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANALYSIS'])[1]/preceding::button[1]</value>
+      <webElementGuid>f3637116-328c-4830-a5e9-693cb01c06c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROFILE'])[1]/preceding::button[2]</value>
+      <webElementGuid>552eab56-fcf0-424e-ab76-b669c8e8d298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ROUTINE']/parent::*</value>
+      <webElementGuid>aec07e5c-1abc-4447-9ada-5cdd864f5498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/button</value>
+      <webElementGuid>c138e086-946c-4e03-80cd-974b493f53d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'ROUTINE' or . = 'ROUTINE')]</value>
+      <webElementGuid>8f93c489-254f-4eb0-a443-39a73e2d86c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

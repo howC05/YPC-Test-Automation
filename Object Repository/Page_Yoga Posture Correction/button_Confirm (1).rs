@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm (1)</name>
+   <tag></tag>
+   <elementGuidId>f632d8e4-ed06-4ef8-88f7-c08a22c72b2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/a[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>77acc925-580f-4f34-aecb-281f6c74469a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-16 border-4 border-gray-500 font-bold text-slate-950 hover:bg-gray-100 hover:text-gray-700 opacity-100 square2 </value>
+      <webElementGuid>71ada416-914d-40ec-a7a7-3dc8b8a0da98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm</value>
+      <webElementGuid>b59dfbc9-5319-46eb-aee5-26c4127f77e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;scrollable-container grid grid-cols-1 min-h-screen&quot;]/div[@class=&quot;mx-2 bg-transparent flex justify-between p-3&quot;]/a[2]/div[1]/button[@class=&quot;h-16 border-4 border-gray-500 font-bold text-slate-950 hover:bg-gray-100 hover:text-gray-700 opacity-100 square2&quot;]</value>
+      <webElementGuid>0acbc30b-4906-4aee-8899-e327932f3f47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/a[2]/div/button</value>
+      <webElementGuid>d7fe69a8-663c-44f5-bee9-264b9c835990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[1]/following::button[1]</value>
+      <webElementGuid>32f8f08b-9ffa-4c66-924f-918c354b303c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select postures'])[1]/following::button[2]</value>
+      <webElementGuid>6b8af6f9-5e56-4c3c-b39d-f0fda1b91ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
+      <webElementGuid>1b58073b-5cc2-417f-b426-0c1b96d7e919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/button</value>
+      <webElementGuid>326ac107-4671-4e42-905c-1616c8232714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Confirm' or . = 'Confirm')]</value>
+      <webElementGuid>60ca58d7-7d55-4a36-bde9-038c5521ffdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

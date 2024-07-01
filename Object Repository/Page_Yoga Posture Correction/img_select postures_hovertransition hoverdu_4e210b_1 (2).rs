@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_select postures_hovertransition hoverdu_4e210b_1 (2)</name>
+   <tag></tag>
+   <elementGuidId>a71f02d9-114f-415f-8590-8ba660eb94e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[7]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1d66326e-baa7-4b50-8551-dfb48901e0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/warrior-removebg-preview.png</value>
+      <webElementGuid>3f8acfa4-6657-40f1-8bcc-40b87938200f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Warrior Pose</value>
+      <webElementGuid>609aa58e-b8dc-4203-a677-69fc9d523e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:transition hover:duration-100 hover:ease-in-out h-full w-full object-center p-2 bg-white lg:h-full lg:w-full cursor-pointer transition  border-white</value>
+      <webElementGuid>a58b00af-11ed-474d-9136-067f3dec9ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>b4794426-3a0f-4a4f-a659-2199f7425e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;scrollable-container grid grid-cols-1 min-h-screen&quot;]/div[@class=&quot;mx-auto max-w-2xl px-4 py-3 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-6&quot;]/div[@class=&quot;mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8&quot;]/div[@class=&quot;col-span-1&quot;]/div[@class=&quot;transition duration-100 ease-out hover:-translate-y-1 hover:scale-105 aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200   group-hover:border-4 group-hover:border-black lg:h-80&quot;]/img[@class=&quot;hover:transition hover:duration-100 hover:ease-in-out h-full w-full object-center p-2 bg-white lg:h-full lg:w-full cursor-pointer transition  border-white&quot;]</value>
+      <webElementGuid>4d4ad6d2-dfc2-4909-8ae5-77c06579a022</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[7]/div/img</value>
+      <webElementGuid>46ca8724-c30a-4a0b-b234-37efd56ecd3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Warrior Pose']</value>
+      <webElementGuid>18eb8123-afdb-429f-a78c-ed68e43fd804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/img</value>
+      <webElementGuid>bc625da2-ea74-49a7-a742-958625a752b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/warrior-removebg-preview.png' and @alt = 'Warrior Pose']</value>
+      <webElementGuid>1347c1af-15df-442c-8657-9b638fff4218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

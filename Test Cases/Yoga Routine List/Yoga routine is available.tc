@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To validate users can view the list of available yoga routines</description>
+   <name>Yoga routine is available</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf32121d-23fa-4e7d-bcc2-e8f9b3625e8f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_select postures_hovertransition hoverdu_4e210b_1</name>
+   <tag></tag>
+   <elementGuidId>ad448902-83b4-464f-ae5d-d69e9d6c38df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b09a48de-f5fb-4383-80b3-cdd75e0ba77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/dog.jpg</value>
+      <webElementGuid>8500a381-6d91-46dd-ada9-b4517f404941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dog Pose</value>
+      <webElementGuid>9fdc137e-f05b-4a1b-8353-eee57c29bce4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:transition hover:duration-100 hover:ease-in-out h-full w-full object-center p-2 bg-white lg:h-full lg:w-full cursor-pointer transition  border-white</value>
+      <webElementGuid>9a1f168a-3115-4830-b229-00fd31ffdbef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>979f2164-2e01-4cc4-adec-8f87c1113497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;scrollable-container grid grid-cols-1 min-h-screen&quot;]/div[@class=&quot;mx-auto max-w-2xl px-4 py-3 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-6&quot;]/div[@class=&quot;mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8&quot;]/div[@class=&quot;col-span-1&quot;]/div[@class=&quot;transition duration-100 ease-out hover:-translate-y-1 hover:scale-105 aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200   group-hover:border-4 group-hover:border-black lg:h-80&quot;]/img[@class=&quot;hover:transition hover:duration-100 hover:ease-in-out h-full w-full object-center p-2 bg-white lg:h-full lg:w-full cursor-pointer transition  border-white&quot;]</value>
+      <webElementGuid>eea1b135-f1de-464d-9c28-f7e3ff17a8fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div/img</value>
+      <webElementGuid>38f9a45e-eec8-46fe-9d88-371853fda78f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Dog Pose']</value>
+      <webElementGuid>b3bf98b8-3cae-4d79-8a79-99f519a67082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>f21e60f8-57a9-46fc-82fa-8e249ac4d27e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/dog.jpg' and @alt = 'Dog Pose']</value>
+      <webElementGuid>046a5b0c-289e-4d9d-bcfc-7b18a2eb7869</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
